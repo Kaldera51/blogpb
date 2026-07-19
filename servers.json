@@ -1,0 +1,23 @@
+{
+  "Jogjagamers": {
+    "name": "Jogjagamers Reality Project",
+    "description": "Server Roleplay terbesar di Indonesia dengan fitur lengkap dan komunitas aktif.",
+    "discord": "https://discord.gg/jgrp",
+    "website": "https://jogjagamers.org",
+    "icon": "assets/img/servers/jgrp.png"
+  },
+  "Search Roleplay": {
+    "name": "Search Roleplay",
+    "description": "Server Roleplay yang bangkit dari kegagalan, dibangun bersama komunitas, dan menjadi rumah untuk setiap cerita.",
+    "discord": "https://discord.gg/6CscZ3A8Rz",
+    "website": "",
+    "icon": "assets/img/servers/searchrp.png"
+  },
+  "State Side": {
+    "name": "State Side Roleplay",
+    "description": "Server Roleplay yang menolak tenggelam, bangkit bersama pemainnya, dan menjadi saksi dari ribuan cerita yang lahir setiap hari.",
+    "discord": "https://discord.gg/stateside",
+    "website": "",
+    "icon": "assets/img/servers/ssrp.png"
+  }
+}
