@@ -6,12 +6,12 @@
     "longDescription": "Script AutoFish yang membantu mengurangi aktivitas berulang saat memancing dengan menjalankan proses secara otomatis. Dirancang agar tetap ringan, stabil, dan mudah digunakan tanpa konfigurasi yang rumit.",
     "author": "Reizenoscura",
     "category": "tools",
-    "date": "2026-07-19",
+    "date": "2026-08-25",
     "size": "6 KB",
     "deviceSupport": "PC & Android",
     "fileType": ".lua",
     "download": "https://www.mediafire.com/file/cavwx4jlvhd8ybg/AutoFish.zip/file",
     "videoUrl": "",
-    "servers": ["Search Roleplay", "State Side"]
+    "servers": ["Reactive Roleplay", "State Side", "Search Roleplay"]
   }
 ]

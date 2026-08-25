@@ -6,12 +6,12 @@
     "website": "https://jogjagamers.org",
     "icon": "assets/img/servers/jgrp.png"
   },
-  "Search Roleplay": {
-    "name": "Search Roleplay",
-    "description": "Server Roleplay yang bangkit dari kegagalan, dibangun bersama komunitas, dan menjadi rumah untuk setiap cerita.",
-    "discord": "https://discord.gg/6CscZ3A8Rz",
+  "Reactive Roleplay": {
+    "name": "Reactive Roleplay",
+    "description": "Server Roleplay yang hadir kembali (Comeback) dengan fitur dan komunitas yang lebih baik.",
+    "discord": "https://discord.gg/zGzDqTgYNF",
     "website": "",
-    "icon": "assets/img/servers/searchrp.png"
+    "icon": "assets/img/servers/reactive.png"
   },
   "State Side": {
     "name": "State Side Roleplay",
@@ -19,5 +19,12 @@
     "discord": "https://discord.gg/stateside",
     "website": "",
     "icon": "assets/img/servers/ssrp.png"
+  },
+  "Search Roleplay": {
+    "name": "Search Roleplay",
+    "description": "Server Roleplay yang bangkit dari kegagalan, dibangun bersama komunitas, dan menjadi rumah untuk setiap cerita.",
+    "discord": "https://discord.gg/6CscZ3A8Rz",
+    "website": "",
+    "icon": "assets/img/servers/searchrp.jpg"
   }
 }
